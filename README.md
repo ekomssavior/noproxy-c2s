@@ -3,7 +3,7 @@ Command and Control instances that dont use proxies.
 
 ## CHURCH OF MALWARE PRESENTS: PROXYLESS C2S FROM OUR PROXYCELS AND PENCILNECKS ARTICLE.  
 
-<img width="1029" height="1029" alt="bro" src="https://github.com/user-attachments/assets/77de0d98-01ac-4593-b1e7-679511183123" />
+<img width="500" height="500" alt="bro" src="https://github.com/user-attachments/assets/77de0d98-01ac-4593-b1e7-679511183123" />
 
 
 https://churchofmalware.org/articles/pencilnecks_proxycels_md
