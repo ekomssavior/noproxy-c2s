@@ -1,5 +1,6 @@
 # noPROXY-c2s
-Command and Control instances that dont use proxies.
+Command and Control instances that dont use proxies based off our pencilnecks and proxycels article.
+Each c2 has its own readme xo
 
 ## CHURCH OF MALWARE PRESENTS: PROXYLESS C2S FROM OUR PROXYCELS AND PENCILNECKS ARTICLE.  
 
