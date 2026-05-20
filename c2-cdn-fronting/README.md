@@ -284,10 +284,10 @@ Domain fronting is increasingly restricted. As of 2026:
 
 | CDN | Status |
 |-----|--------|
-| **Cloudflare Workers** | ✅ Works (workers.dev subdomain + custom host header) |
-| **Azure Front Door** | ⚠️ May work (varies by region) |
-| **AWS CloudFront** | ⚠️ Generally blocked (SNI-based routing) |
-| **Fastly** | ❌ Blocked |
+| **Cloudflare Workers** |  Works (workers.dev subdomain + custom host header) |
+| **Azure Front Door** |  May work (varies by region) |
+| **AWS CloudFront** |  Generally blocked (SNI-based routing) |
+| **Fastly** |  Blocked |
 
 **Cloudflare is the most reliable option.** For maximum reliability, use a custom domain on Cloudflare as both the front domain and the C2 domain.
 
@@ -328,8 +328,6 @@ go run ./cmd/client/ -cdn-url "http://localhost:8080" -front-domain "localhost" 
 
 > **Note**: When testing locally with plain HTTP, the uTLS code path is still used for HTTPS. For local test, the `-cdn-url` must point to your local server over HTTP (not HTTPS) — but the uTLS dialer will fail on HTTP. In production, the CDN URL is always HTTPS.
 
----
 
-## License
 
 Proof-of-concept for educational and authorized security testing only. Use responsibly.
