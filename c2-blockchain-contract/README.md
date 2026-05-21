@@ -1,4 +1,4 @@
-# C2 via Blockchain Smart Contract 🖤
+# C2 via Blockchain Smart Contract 
 
 **A command-and-control framework that uses Ethereum/BSC smart contracts as the C2 channel. No dedicated server needed — just a blockchain RPC endpoint.**
 
