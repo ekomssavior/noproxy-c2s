@@ -18,9 +18,9 @@ Most enterprise firewalls and DPI engines inspect the TLS **SNI** field in the C
 Implant                                   C2 Server
    │                                        │
    │  TLS ClientHello                       │
-   │  SNI = update.windows.com  ✈️          │
+   │  SNI = update.windows.com            │
    │  Destination = C2_IP:8443              │
-   │───────────────────────────────────────>│  🔓 Accepts ANY SNI
+   │───────────────────────────────────────>│   Accepts ANY SNI
    │                                        │
    │  ── TLS handshake (self-signed) ──►    │
    │                                        │
