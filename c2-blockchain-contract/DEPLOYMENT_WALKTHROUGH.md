@@ -27,7 +27,7 @@ cat wallet.key
 cast wallet address --private-key $(cat wallet.key)
 ```
 
-**⚠️ Keep your private key secret. Anyone with it can control your contract.**
+** Keep your private key secret. Anyone with it can control your contract.**
 
 ---
 
