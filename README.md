@@ -471,3 +471,9 @@ But they cannot map what isn't there. **Go proxy-less.** Hide your malware behin
 Ignore the pencil-necks at Synthient. Let them look at their dashboards and wonder where all the traffic went. They sell proxy detection. We sell infections via the infrastructure they can't touch.
 
 **Malware Bless**
+
+---
+
+DISCLAIMER: for authorized security testing and educational purposes only.
+
+<img width="866" height="150" alt="image4" src="https://github.com/user-attachments/assets/309b87b4-742d-4612-b354-2cdaaa1ac845" />
