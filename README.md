@@ -1,5 +1,7 @@
 <img width="495" height="197" alt="AE57B527-19A6-4BA8-8F23-6EB023A3FB56" src="https://github.com/user-attachments/assets/ac49bb25-1217-4530-9593-60ad3dbeebcd" />
+
 # noPROXY-c2s
+
 Command and Control instances that dont use proxies based off our pencilnecks and proxycels article.
 Each c2 has its own readme xo
 
